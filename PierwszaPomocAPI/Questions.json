@@ -37,7 +37,7 @@
   {
     "question": "W czasie udzielania pierwszej pomocy tętno sprawdza się:",
     "answers": ["a) po obu stronach szyi, używając kciuka i pozostałych palców.", "b) po jednej stronie szyi, trzema środkowymi palcami.", "c) kciukiem na przegubie ręki."],
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "question": "Aby wezwać pomoc z telefonu komórkowego, należy zadzwonić pod numer alarmowy:",
@@ -47,7 +47,7 @@
   {
     "question": "Numer alarmowy straży pożarnej to:",
     "answers": ["a) 997", "b) 989", "c) 998"],
-    "correctAnswer": 0
+    "correctAnswer": 2
   },
   {
     "question": "Masaż serca prowadzi się:",
@@ -72,7 +72,7 @@
   {
     "question": "Jeśli poszkodowany ma wyczuwalne tętno, a nie oddycha, to:",
     "answers": ["a) nie wolno go dotykać.", "b) należy wykonać masaż serca.", "c) należy udrożnić drogi oddechowe i rozpocząć sztuczne oddychanie."],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "question": "Tętno u poszkodowanego sprawdzamy:",
@@ -142,7 +142,7 @@
       {
         "question": "Jeżeli w ranie znajduje się ostry przedmiot, należy:",
         "answers": ["a) natychmiast go wyjąć.", "b) pozostawić go w ranie.", "c) wyjąć go i nałożyć jałowy opatrunek."],
-        "correctAnswer": 0
+        "correctAnswer": 1
       },
       {
         "question": "Przy złamaniu kości przedramienia należy:",
