@@ -1,0 +1,178 @@
+﻿[
+  {
+    "question": "Obowiązek udzielenia pomocy ofiarom wypadku dotyczy:",
+    "answers": ["a) wszystkich, ponieważ zawsze można wykonać część zadań ratunkowych.", "b) tylko osób, które mają przygotowanie medyczne.", "c) wszystkich, ale za popełnione błędy zawsze grozi odpowiedzialność karna."],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Obowiązek udzielenia pomocy poszkodowanym w wypadku należy:",
+    "answers": ["a) tylko do lekarzy.", "b) do każdej osoby.", "c) tylko do służb ratowniczych."],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Przy udzielaniu rannym pierwszej pomocy na miejscu wypadku należy przede wszystkim:",
+    "answers": ["a) udzielić pomocy tym, których stan zagraża życiu.", "b) podać rannym leki uspokajające.", "c) pojechać po lekarza."],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Przy udzielaniu pierwszej pomocy poszkodowanym w wypadku należy przede wszystkim:",
+    "answers": ["a) podać rannym leki.", "b) oddalić się z miejsca wypadku w celu wezwania lekarza.", "c) udzielić pomocy osobom z zagrożeniem życia."],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Świadek wypadku, w którym są ofiary, w pierwszej kolejności powinien:",
+    "answers": ["a) zabezpieczyć miejsce wypadku.", "b) zapisać świadków wypadku.", "c) udzielić pierwszej pomocy."],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Kierujący rowerem uczestniczący w wypadku drogowym z ofiarami w ludziach powinien w pierwszej kolejności:",
+    "answers": ["a) zapisać adresy świadków.", "b) zapewnić bezpieczeństwo w miejscu wypadku.", "c) oddalić się celem wezwania pogotowia ratunkowego lub policji."],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Jeżeli ofiara wypadku po kilku minutach odzyskała przytomność i chce iść do domu, to należy:",
+    "answers": ["a) namawiać ją do pozostania i wezwać pomoc medyczną.", "b) podać jej coś do picia i środki przeciwbólowe.", "c) pozwolić jej iść do domu, zalecając wizytę u lekarza."],
+    "correctAnswer": 0
+  },
+  {
+    "question": "W czasie udzielania pierwszej pomocy tętno sprawdza się:",
+    "answers": ["a) po obu stronach szyi, używając kciuka i pozostałych palców.", "b) po jednej stronie szyi, trzema środkowymi palcami.", "c) kciukiem na przegubie ręki."],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Aby wezwać pomoc z telefonu komórkowego, należy zadzwonić pod numer alarmowy:",
+    "answers": ["a) 112", "b) 999", "c) 998"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Numer alarmowy straży pożarnej to:",
+    "answers": ["a) 997", "b) 989", "c) 998"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Masaż serca prowadzi się:",
+    "answers": ["a) co najmniej 5 minut.", "b) do momentu, aż poszkodowany odzyska tętno.", "c) nie dłużej niż 15 minut."],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Brak krążenia można rozpoznać po:",
+    "answers": ["a) braku tętna na tętnicy szyjnej.", "b) bólu w klatce piersiowej.", "c) chrapiącym oddechu."],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Najbezpieczniejsze ułożenie poszkodowanego to pozycja:",
+    "answers": ["a) na wznak.", "b) siedząca.", "c) boczna ustalona."],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Najbardziej bezpieczna dla poszkodowanego jest pozycja:",
+    "answers": ["a) boczna ustalona.", "b) na plecach.", "c) półsiedząca."],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Jeśli poszkodowany ma wyczuwalne tętno, a nie oddycha, to:",
+    "answers": ["a) nie wolno go dotykać.", "b) należy wykonać masaż serca.", "c) należy udrożnić drogi oddechowe i rozpocząć sztuczne oddychanie."],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Tętno u poszkodowanego sprawdzamy:",
+    "answers": ["a) przykładając dłoń do czoła.", "b) przykładając ucho do klatki piersiowej.", "c) układając palce na tętnicy szyjnej."],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Osobie nieprzytomnej:",
+    "answers": ["a) można podać do picia wszystko.", "b) można podać do picia zimną wodę.", "c) nie wolno podawać nic do picia"],
+      "correctAnswer": 2
+      },
+      {
+        "question": "Poszkodowanego, który jest nieprzytomny, ale oddycha i ma wyczuwalne tętno, należy ułożyć:",
+        "answers": ["a) na brzuchu z ręką pod głową.", "b) na plecach.", "c) w pozycji bezpiecznej (bocznej ustalonej)."],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Ułożenie ciała poszkodowanego ułatwiające oddychanie i krążenie krwi, a także zapobiegające zakrztuszeniu umożliwia pozycja:",
+        "answers": ["a) na wznak.", "b) twarzą do ziemi.", "c) bezpieczna (boczna ustalona)."],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Jeżeli nieprzytomny ranny oddycha i ma wyczuwalne tętno, lecz zaczyna wymiotować:",
+        "answers": ["a) należy położyć go na plecach i odchylić głowę do tyłu.", "b) trzeba przygiąć jego głowę do klatki piersiowej.", "c) należy ułożyć go w pozycji bezpiecznej."],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Jeżeli ranny jest przytomny i podejrzewamy u niego uraz kręgosłupa piersiowego, to należy go ułożyć:",
+        "answers": ["a) na soku.", "b) na wznak, na twardym podłożu.", "c) na brzuchu."],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Jeżeli u poszkodowanego podejrzewamy uszkodzenie kręgosłupa, to należy:",
+        "answers": ["a) usadzić go w pozycji półleżącej.", "b) położyć go w pozycji bocznej ustalonej.", "c) nie ruszać go i czekać na przybycie służb medycznych."],
+        "correctAnswer": 2
+      },
+      {
+        "question": "W razie podejrzenia uszkodzenia kręgosłupa na odcinku szyjnym należy:",
+        "answers": ["a) ułożyć głowę w pozycji bocznej.", "b) unieruchomić głowę.", "c) nie ruszać poszkodowanego do czasu przyjazdu lekarza."],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Opaskę uciskową należy stosować w wypadku:",
+        "answers": ["a) zmiażdżenia lub oderwania kończyny.", "b) zranienia głowy.", "c) każdej rany."],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Przy silnie krwawiącej ranie w pierwszej kolejności należy:",
+        "answers": ["a) napoić osobę poszkodowaną.", "b) ją zdezynfekować.", "c) zatamować krwawienie."],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Na krwawiącą ranę przed jej zabandażowaniem należy położyć:",
+        "answers": ["a) watę.", "b) jałową gazę.", "c) ligninę."],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Do opatrywania krwawiących ran stosuje się:",
+        "answers": ["a) opatrunek uciskowy z gazy lub płótna oraz bandaż.", "b) jodynę lub gencjanę.", "c) tylko jałową gazę."],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Najbardziej niebezpieczna dla człowieka jest utrata krwi z:",
+        "answers": ["a) naczynia żylnego.", "b) krwawiących tkanek miękkich.", "c) naczynia tętniczego."],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Jeżeli w ranie znajduje się ostry przedmiot, należy:",
+        "answers": ["a) natychmiast go wyjąć.", "b) pozostawić go w ranie.", "c) wyjąć go i nałożyć jałowy opatrunek."],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Przy złamaniu kości przedramienia należy:",
+        "answers": ["a) podać poszkodowanemu środki przeciwbólowe.", "b) unieruchomić dwa sąsiadujące ze sobą stawy.", "c) nie ruszać poszkodowanego do czasu przyjazdu lekarza."],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Omdlenie mija najszybciej, gdy poszkodowany:",
+        "answers": ["a) leży na plecach z uniesionymi rękami i nogami.", "b) leży na boku.", "c) znajduje się w pozycji półsiedzącej."],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Pierwsza pomoc w przypadku oparzeń powinna polegać na:",
+        "answers": ["a) polewaniu oparzonego miejsca zimną wodą.", "b) polewaniu oparzonego miejsca ciepłą wodą.", "c) smarowaniu oparzonego miejsca maścią."],
+        "correctAnswer": 0
+      },
+      {
+        "question": "W przypadku poparzenia dłoni należy w pierwszej kolejności:",
+        "answers": ["a) posmarować dłoń kremem.", "b) zdjąć pierścionki i obrączki.", "c) zdezynfekować."],
+        "correctAnswer": 1
+      },
+      {
+        "question": "W sytuacji złamania kości należy ją:",
+
+        "answers": ["a) nastawić.", "b) naciągnąć i zmniejszyć ból.", "c) unieruchomić."],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Złamaną rękę należy:",
+        "answers": ["a) nastawić.", "b) pozostawić bez zmian i podać środek przeciwbólowy.", "c) unieruchomić."],
+        "correctAnswer": 2
+      }
+    ]
